@@ -1,3 +1,4 @@
 config:
   info: spring.cloud.demo
   version: 1.0
+  name: ssy
